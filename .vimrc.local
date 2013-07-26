@@ -1,0 +1,8 @@
+let g:airline_powerline_fonts=1
+let g:airline_theme='solarized'
+set gfn=DejaVu\ Sans\ Mono\ for\ Powerline\ Medium\ 10
+set scrolloff=10
+set scrolljump=0
+set cursorcolumn
+nnoremap <F3> :set hlsearch!<CR>
+nnoremap <F5> :w !sudo tee %<CR>
