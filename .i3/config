@@ -152,3 +152,5 @@ bar {
 
 exec alsa-tray
 exec dropboxd
+exec terminator
+exec chromium
