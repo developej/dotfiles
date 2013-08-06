@@ -1,0 +1,25 @@
+[global_config]
+  enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  focus = mouse
+[keybindings]
+[profiles]
+  [[default]]
+    palette = "#101010:#ff1000:#62ff00:#f0ff00:#0090ff:#fa2573:#67d9f0:#f2f2f2:#555753:#ff3324:#94ff51:#f4ff48:#61bbff:#ff629b:#92edff:#f8f8f2"
+    font = DejaVu Sans Mono for Powerline 10
+    background_image = None
+    audible_bell = True
+    use_system_font = False
+    cursor_color = "#62ff00"
+    show_titlebar = False
+    copy_on_selection = True
+    scrollback_infinite = True
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
