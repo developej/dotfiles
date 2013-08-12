@@ -1,0 +1,64 @@
+# Wait for program
+wait_for_program () {
+    n=0
+    while true
+    do
+	# PID of last background command
+	if xdotool search --onlyvisible --pid $!; then
+	    break
+	else
+	    # 20 seconds timeout
+	    if [ $n -eq 20 ]; then
+		xmessage "Error on executing"
+		break
+	    else
+		n=`expr $n + 1`
+		sleep 1
+	    fi
+	fi
+    done
+}
+
+terminator &
+wait_for_program
+
+chromium &
+wait_for_program
+
+i3-msg resize grow left 5ppt
+
+i3-msg split v
+
+vlc &
+wait_for_program
+sleep 1
+
+i3-msg resize shrink height 10ppt
+i3-msg resize shrink height 10ppt
+
+i3-msg split h
+
+skype &
+wait_for_program
+sleep 1
+
+i3-msg focus left
+i3-msg focus left
+i3-msg split v
+terminator &
+wait_for_program
+i3-msg resize shrink height 10ppt
+i3-msg resize shrink height 10ppt
+
+i3-msg split h
+terminator &
+wait_for_program
+i3-msg resize shrink left 10ppt
+i3-msg resize shrink left 10ppt
+i3-msg resize shrink left 10ppt
+
+xte 'mousemove 1280 720'
+
+xrefresh &
+
+exit 0

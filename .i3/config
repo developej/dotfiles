@@ -152,5 +152,5 @@ bar {
 
 exec alsa-tray
 exec dropboxd
-exec terminator
-exec chromium
+
+exec /home/developej/dotfiles/.i3/autostart
