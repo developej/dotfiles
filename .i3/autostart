@@ -57,8 +57,6 @@ i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
 
-xte 'mousemove 1280 720'
-
 xrefresh &
 
 exit 0
