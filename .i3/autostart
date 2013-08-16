@@ -29,30 +29,36 @@ i3-msg resize grow left 5ppt
 
 i3-msg split v
 
+skype &
+wait_for_program
+sleep 2
+
+i3-msg split h
+
 vlc &
 wait_for_program
 sleep 1
 
+i3-msg move left
+
 i3-msg resize shrink height 10ppt
 i3-msg resize shrink height 10ppt
 
-i3-msg split h
-
-skype &
-wait_for_program
-sleep 1
-
 i3-msg focus left
-i3-msg focus left
+
 i3-msg split v
+
 terminator &
 wait_for_program
+
 i3-msg resize shrink height 10ppt
 i3-msg resize shrink height 10ppt
 
 i3-msg split h
+
 terminator &
 wait_for_program
+
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
