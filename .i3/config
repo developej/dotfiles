@@ -152,4 +152,3 @@ bar {
 
 exec alsa-tray
 exec /home/developej/dotfiles/.i3/autostart
-exec dropboxd

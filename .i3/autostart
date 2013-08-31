@@ -63,6 +63,11 @@ i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
 
+sleep 3
+
+dropboxd &
+wait_for_program
+
 xrefresh &
 
 exit 0
