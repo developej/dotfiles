@@ -2084,10 +2084,10 @@
     <hash type="RawValue" key="MBK_OcclRays">64</hash>
   </atom>
   <atom type="Window">
-    <atom type="DlgCenter">1293 719</atom>
+    <atom type="DlgCenter">1323 719</atom>
     <hash type="Position" key="main">0 2 41 2556 1376</hash>
     <hash type="Position" key="Absolute">0 414 655 270 321</hash>
-    <hash type="Position" key="@macros.layouts@FormEditor@">0 773 221 1028 777</hash>
+    <hash type="Position" key="@macros.layouts@FormEditor@">0 775 221 1028 777</hash>
     <hash type="Position" key="@macros.layouts@Preferences@">0 961 392 645 655</hash>
   </atom>
   <atom type="Messages">
@@ -2173,11 +2173,8 @@
       <list type="Port">vpgroup 3 4 1 2 ModelViewSingle_RightHandColumnTop_vp</list>
       <list type="Port">attrform 0 1 0 1 ModelViewSingle_TopBarLeft_vp</list>
       <list type="Port">vpgroup 0 2 1 4 ModelViewSingle_LeftHandColumn_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
       <atom type="InputRemappingContext">Model</atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Model Quad_layout" val="viewportGroup">
       <atom type="IdealSize">2062 1289</atom>
@@ -2188,11 +2185,7 @@
       <list type="Port">3Dmodel 2 3 0 1 Model Quad_layout_vp1</list>
       <list type="Port">3Dmodel 0 1 1 2 Model Quad_layout_vp2</list>
       <list type="Port">3Dmodel 0 2 0 1 Model Quad_layout_vp3</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Paint and Sculpt" val="applicationLayout">
       <atom type="IdealSize">2548 995</atom>
@@ -2211,22 +2204,15 @@
       <list type="Port">vptab 2 3 2 3 PaintPresetBrowserTabs</list>
       <list type="Port">vpgroup 3 4 2 3 Paint_and_Sculpt_Color-Brush</list>
       <list type="Port">infoview 2 4 3 4 ThreeColumnInfoBar_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
       <atom type="InputRemappingContext">Paint</atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Paint_and_Sculpt_LeftHandClmn_layout" val="viewportGroup">
       <atom type="IdealSize">196 962</atom>
       <list type="VDiv">0.685</list>
       <list type="Port">attrform 0 1 0 1 Paint_and_Sculpt_ToolBar</list>
       <list type="Port">attrform 0 1 1 2 Tool_Properties_Layout_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Paint_and_Sculpt_RightHandClmn_layout" val="viewportGroup">
       <atom type="IdealSize">319 1317</atom>
@@ -2235,22 +2221,14 @@
       <list type="Port">vptab 0 1 0 1 Paint_and_Sculpt_RightHandClmn_TopTabs</list>
       <list type="Port">vptab 0 1 1 2 Paint_and_Sculpt_RightHandClmn_BottomTabs</list>
       <list type="Port">cmdhist 0 1 2 3 43105991570:vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Paint_and_Sculpt_Color-Brush_layout" val="viewportGroup">
       <atom type="IdealSize">579 230</atom>
       <list type="HDiv">0.6010363</list>
       <list type="Port">color 0 1 0 1 84121991585:vp</list>
       <list type="Port">brush 1 2 0 1 87689991586:vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Topo Editor" val="applicationLayout">
       <atom type="IdealSize">1415 1349</atom>
@@ -2267,33 +2245,22 @@
       <list type="Port">vpgroup 3 4 1 2 TopoView_RightHandColumnTop_vp</list>
       <list type="Port">attrform 0 1 0 1 TopoView_TopBarLeft_vp</list>
       <list type="Port">vpgroup 0 2 1 4 TopoView_LeftHandColumn_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
       <atom type="InputRemappingContext">Topology</atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.TopoView_RightHandClmn_layout" val="viewportGroup">
       <atom type="IdealSize">392 1164</atom>
       <list type="VDiv">0.3797251</list>
       <list type="Port">vptab 0 1 1 2 TopoView_RightHandClmn_BottomTabs</list>
       <list type="Port">vptab 0 1 0 1 TopoView_RightHandClmn_TopTabs</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.TopoView_LeftHandColumn_layout" val="viewportGroup">
       <atom type="IdealSize">196 962</atom>
       <list type="VDiv">0.5</list>
       <list type="Port">attrform 0 1 0 1 TopoView_ToolBar</list>
       <list type="Port">attrform 0 1 1 2 Tool_Properties_Layout_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.UV Editor" val="applicationLayout">
       <atom type="IdealSize">2548 1349</atom>
@@ -2312,33 +2279,22 @@
       <list type="Port">vpgroup 4 5 1 2 UV_Edit_View_RightHandColumnTop_vp</list>
       <list type="Port">attrform 0 1 0 1 UV_Edit_View_TopBarLeft_vp</list>
       <list type="Port">vpgroup 0 2 1 4 UV_Edit_View_LeftHandColumn_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
       <atom type="InputRemappingContext">UVEdit</atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.UV_Edit_View_RightHandClmn_layout" val="viewportGroup">
       <atom type="IdealSize">392 1167</atom>
       <list type="VDiv">0.3787489</list>
       <list type="Port">vptab 0 1 1 2 UV_Edit_View_RightHandClmn_BottomTabs</list>
       <list type="Port">vptab 0 1 0 1 UV_Edit_View_RightHandClmn_TopTabs</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.UV_Edit_View_LeftHandColumn_layout" val="viewportGroup">
       <atom type="IdealSize">196 962</atom>
       <list type="VDiv">0.62</list>
       <list type="Port">attrform 0 1 0 1 UV_Edit_View_ToolBar</list>
       <list type="Port">attrform 0 1 1 2 Tool_Properties_Layout_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Layout" val="applicationLayout">
       <atom type="IdealSize">2548 1349</atom>
@@ -2359,33 +2315,22 @@
       <list type="Port">vpgroup 3 4 1 3 LayoutView_RightHandColumnTop_vp</list>
       <list type="Port">attrform 0 1 0 1 LayoutView_TopBarLeft_vp</list>
       <list type="Port">vpgroup 0 2 1 6 LayoutView_LHC_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
       <atom type="InputRemappingContext">Layout</atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.LayoutView_RHC_layout" val="viewportGroup">
       <atom type="IdealSize">392 1147</atom>
       <list type="VDiv">0.3600697</list>
       <list type="Port">vptab 0 1 1 2 LayoutView_RHC_BtmTabs</list>
       <list type="Port">vptab 0 1 0 1 LayoutView_RHC_TopTabs</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.LayoutView_LHC_layout" val="viewportGroup">
       <atom type="IdealSize">196 962</atom>
       <list type="VDiv">0.5</list>
       <list type="Port">attrform 0 1 0 1 LayoutView_ToolBar</list>
       <list type="Port">attrform 0 1 1 2 Tool_Properties_Layout_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Setup" val="applicationLayout">
       <atom type="IdealSize">1592 1066</atom>
@@ -2402,11 +2347,8 @@
       <list type="Port">vpgroup 0 3 1 2 SetupView_3D-SchemaSplit_and_Panels_vp</list>
       <list type="Port">attrform 2 3 0 1 SetupView_TopBarRight_vp</list>
       <list type="Port">attrform 0 2 0 1 SetupView_TopBarLeft_vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
       <atom type="InputRemappingContext">Setup</atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.SetupView_3D-SchemaSplit_and_Panels" val="viewportGroup">
       <atom type="IdealSize">2548 897</atom>
@@ -2415,11 +2357,7 @@
       <list type="Port">vpgroup 2 3 0 1 SetupView_RightHandColumn</list>
       <list type="Port">vpgroup 0 1 0 1 SetupView_LeftHandColumn</list>
       <list type="Port">vpgroup 1 2 0 1 SetupView_3D-SchemaSplit_and_Panels_vp_38238992645</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.SetupView_RightHandColumn_vpg" val="viewportGroup">
       <atom type="IdealSize">354 1210</atom>
@@ -2428,60 +2366,36 @@
       <list type="Port">vptab 0 1 0 1 SetupView_RHC_UpperTabs</list>
       <list type="Port">vptab 0 1 1 2 SetupView_RHC_LowerTabs</list>
       <list type="Port">cmdhist 0 1 2 3 22203992618:vp</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.SetupView_LeftHandColumn_vpg" val="viewportGroup">
       <atom type="IdealSize">90 1032</atom>
       <list type="VDiv">0.1996124</list>
       <list type="Port">vptab 0 1 1 2 SetupView_LHC_CMDS_Props_Tabs</list>
       <list type="Port">attrform 0 1 0 1 SetupView_LHC_AnimateCommon_VP</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Setup Split_layout" val="viewportGroup">
       <atom type="IdealSize">2003 1210</atom>
       <list type="VDiv">0.6</list>
       <list type="Port">schematic 0 1 1 2 52454992632:vp</list>
       <list type="Port">3Dmodel 0 1 0 1 Setup Split_layout_vp1</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.vpgroupLayout6033" val="viewportGroup">
       <atom type="IdealSize">2548 1301</atom>
       <list type="Port">vpgroup 0 1 0 1 Animate701OuterGroup</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Animate701OuterFrame" val="viewportGroup">
       <atom type="IdealSize">2544 1297</atom>
       <list type="Port">vpgroup 0 1 0 1 Animate701InnerGroup</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Animate701InnerFrame" val="viewportGroup">
       <atom type="IdealSize">2536 1270</atom>
       <list type="Port">vpgroup 0 1 0 1 Animate7013DGroup</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.Animate7013DFrame" val="viewportGroup">
       <atom type="IdealSize">2548 1349</atom>
@@ -2500,11 +2414,7 @@
       <list type="Port">attrform 0 1 3 4 05582994657:vp</list>
       <list type="Port">attrform 0 1 0 3 89682994630:vp</list>
       <list type="Port">3Dmodel 1 3 0 1 Animate7013DFrame_vp_87930994536</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
       <list type="HDiv">0.1028257</list>
       <list type="HDiv">0.3269231</list>
       <list type="VDiv">0.7813195</list>
@@ -2592,10 +2502,8 @@
       <atom type="IdealSize">1424 802</atom>
       <list type="Port">vpgroup 0 1 0 1 Animate701</list>
       <atom type="PostRestoreCommand">select.type item</atom>
-      <atom type="Icon"></atom>
       <atom type="InputRemappingContext">Animate</atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.unnamed4014" val="applicationLayout">
       <atom type="IdealSize">2548 173</atom>
@@ -2640,11 +2548,8 @@
       <list type="Port">vpgroup 0 1 1 2 RenderView_Layout_lyt_vp_34839995971</list>
       <list type="Port">vpgroup 0 3 0 1 RenderView_Layout_lyt_vp_73723995974</list>
       <list type="Port">vpgroup 0 1 2 3 RenderView_Layout_lyt_vp_17798995977</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
       <atom type="InputRemappingContext">Render</atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.701_RenderView_RColumn02_vpg_lyt" val="viewportGroup">
       <atom type="IdealSize">311 1315</atom>
@@ -2653,55 +2558,35 @@
       <list type="Port">cmdhist 0 1 2 3 701_RenderView_RColumn02_vpg_lyt_vp_50499995964</list>
       <list type="Port">vptab 0 1 1 2 701_RenderView_RColumn02_vpg_lyt_vp_16337995965</list>
       <list type="Port">attrform 0 1 0 1 701_RenderView_RColumn02_vpg_lyt_vp_92359995966</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.701_RenderView_RColumn01_vpg_lyt" val="viewportGroup">
       <atom type="IdealSize">347 716</atom>
       <list type="VDiv">0.4986034</list>
       <list type="Port">vptab 0 1 1 2 701_RenderView_RColumn01_vpg_lyt_vp_46259995968</list>
       <list type="Port">vptab 0 1 0 1 701_RenderView_RColumn01_vpg_lyt_vp_67505995969</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.701_RenderView_Display_vpg_lyt" val="viewportGroup">
       <atom type="IdealSize">741 627</atom>
       <list type="VDiv">0.4992026</list>
       <list type="Port">vptab 0 1 1 2 701_RenderView_Display_vpg_lyt_vp_04033995972</list>
       <list type="Port">primitive 0 1 0 1 701_RenderView_Display_vpg_lyt_vp_25353995973</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.701_RenderView_ModoModes_vpg_lyt" val="viewportGroup">
       <atom type="IdealSize">1415 34</atom>
       <list type="HDiv">0.1448763</list>
       <list type="Port">attrform 1 2 0 1 701_RenderView_ModoModes_vpg_lyt_vp_11483995975</list>
       <list type="Port">attrform 0 1 0 1 701_RenderView_ModoModes_vpg_lyt_vp_83563995976</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.701_RenderView_TimeControls_vpg_lyt" val="viewportGroup">
       <atom type="IdealSize">741 81</atom>
       <list type="VDiv">0.5925926</list>
       <list type="Port">attrform 0 1 1 2 701_RenderView_TimeControls_vpg_lyt_vp_38782995978</list>
       <list type="Port">time 0 1 0 1 701_RenderView_TimeControls_vpg_lyt_vp_89293995979</list>
-      <atom type="PostRestoreCommand"></atom>
-      <atom type="Icon"></atom>
-      <atom type="InputRemappingContext"></atom>
       <atom type="SwitcherClass">normal</atom>
-      <atom type="SwitcherThumbnail"></atom>
     </hash>
     <hash type="Layout" key="edit.unnamed4029" val="applicationLayout">
       <atom type="IdealSize">2286 50</atom>
@@ -3250,7 +3135,7 @@
         <atom type="Title">Properties</atom>
         <atom type="IsUserTitle">0</atom>
       </list>
-      <list type="Tab" val="channels base.Channels:tabpreset">
+      <list type="Tab" val="channels edit.Channels:tabpreset">
         <atom type="Title">Channels</atom>
         <atom type="IsUserTitle">0</atom>
       </list>
@@ -3283,7 +3168,7 @@
         <atom type="Title">Groups</atom>
         <atom type="IsUserTitle">0</atom>
       </list>
-      <list type="Tab" val="clip base.RightHandClmn_TopTabs:tabpresetClips">
+      <list type="Tab" val="clip edit.RightHandClmn_TopTabs:tabpresetClips">
         <atom type="Title">Images</atom>
         <atom type="IsUserTitle">0</atom>
       </list>
@@ -3295,7 +3180,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Render_View_tab" val="listed">
       <atom type="framePreset">RenderView_Layout_lyt</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">0</atom>
       <atom type="QuadLock">0</atom>
@@ -3304,7 +3188,6 @@
     </hash>
     <hash type="vpgroup" key="edit.RenderView_Layout_lyt_vp_66073995963" val="listed">
       <atom type="framePreset">701_RenderView_RColumn02_vpg_lyt</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3313,7 +3196,6 @@
     </hash>
     <hash type="vpgroup" key="edit.RenderView_Layout_lyt_vp_81122995967" val="listed">
       <atom type="framePreset">701_RenderView_RColumn01_vpg_lyt</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3322,7 +3204,6 @@
     </hash>
     <hash type="vpgroup" key="edit.RenderView_Layout_lyt_vp_34839995971" val="listed">
       <atom type="framePreset">701_RenderView_Display_vpg_lyt</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3331,7 +3212,6 @@
     </hash>
     <hash type="vpgroup" key="edit.RenderView_Layout_lyt_vp_73723995974" val="listed">
       <atom type="framePreset">701_RenderView_ModoModes_vpg_lyt</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3340,7 +3220,6 @@
     </hash>
     <hash type="vpgroup" key="edit.RenderView_Layout_lyt_vp_17798995977" val="listed">
       <atom type="framePreset">701_RenderView_TimeControls_vpg_lyt</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3349,7 +3228,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Animate_tab" val="listed">
       <atom type="framePreset">Animate</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">0</atom>
       <atom type="QuadLock">0</atom>
@@ -3358,7 +3236,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Animate701" val="listed">
       <atom type="framePreset">vpgroupLayout6033</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3367,7 +3244,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Animate701OuterGroup" val="listed">
       <atom type="framePreset">Animate701OuterFrame</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3376,7 +3252,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Animate701InnerGroup" val="listed">
       <atom type="framePreset">Animate701InnerFrame</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3385,7 +3260,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Animate7013DGroup" val="listed">
       <atom type="framePreset">Animate7013DFrame</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3394,7 +3268,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Setup_tab" val="listed">
       <atom type="framePreset">Setup</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">0</atom>
       <atom type="QuadLock">0</atom>
@@ -3403,7 +3276,6 @@
     </hash>
     <hash type="vpgroup" key="edit.SetupView_3D-SchemaSplit_and_Panels_vp" val="listed">
       <atom type="framePreset">SetupView_3D-SchemaSplit_and_Panels</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3412,7 +3284,6 @@
     </hash>
     <hash type="vpgroup" key="edit.SetupView_RightHandColumn" val="listed">
       <atom type="framePreset">SetupView_RightHandColumn_vpg</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3421,7 +3292,6 @@
     </hash>
     <hash type="vpgroup" key="edit.SetupView_LeftHandColumn" val="listed">
       <atom type="framePreset">SetupView_LeftHandColumn_vpg</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3430,7 +3300,6 @@
     </hash>
     <hash type="vpgroup" key="edit.SetupView_3D-SchemaSplit_and_Panels_vp_38238992645" val="listed">
       <atom type="framePreset">Setup Split_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3439,7 +3308,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Layout_tab" val="listed">
       <atom type="framePreset">Layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">0</atom>
       <atom type="QuadLock">0</atom>
@@ -3448,7 +3316,6 @@
     </hash>
     <hash type="vpgroup" key="edit.LayoutView_RightHandColumnTop_vp" val="listed">
       <atom type="framePreset">LayoutView_RHC_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3457,7 +3324,6 @@
     </hash>
     <hash type="vpgroup" key="edit.LayoutView_LHC_vp" val="listed">
       <atom type="framePreset">LayoutView_LHC_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3466,7 +3332,6 @@
     </hash>
     <hash type="vpgroup" key="edit.UV_Editor_tab" val="listed">
       <atom type="framePreset">UV Editor</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">0</atom>
       <atom type="QuadLock">0</atom>
@@ -3475,7 +3340,6 @@
     </hash>
     <hash type="vpgroup" key="edit.UV_Edit_View_RightHandColumnTop_vp" val="listed">
       <atom type="framePreset">UV_Edit_View_RightHandClmn_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3484,7 +3348,6 @@
     </hash>
     <hash type="vpgroup" key="edit.UV_Edit_View_LeftHandColumn_vp" val="listed">
       <atom type="framePreset">UV_Edit_View_LeftHandColumn_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3493,7 +3356,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Topo_Editor_tab" val="listed">
       <atom type="framePreset">Topo Editor</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">0</atom>
       <atom type="QuadLock">0</atom>
@@ -3502,7 +3364,6 @@
     </hash>
     <hash type="vpgroup" key="edit.TopoView_RightHandColumnTop_vp" val="listed">
       <atom type="framePreset">TopoView_RightHandClmn_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3511,7 +3372,6 @@
     </hash>
     <hash type="vpgroup" key="edit.TopoView_LeftHandColumn_vp" val="listed">
       <atom type="framePreset">TopoView_LeftHandColumn_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3520,7 +3380,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Paint_and_Sculpt_tab" val="listed">
       <atom type="framePreset">Paint and Sculpt</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">0</atom>
       <atom type="QuadLock">0</atom>
@@ -3529,7 +3388,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Paint_and_Sculpt_LeftHandClmn" val="listed">
       <atom type="framePreset">Paint_and_Sculpt_LeftHandClmn_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3538,7 +3396,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Paint_and_Sculpt_RightHandClmn" val="listed">
       <atom type="framePreset">Paint_and_Sculpt_RightHandClmn_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3547,7 +3404,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Paint_and_Sculpt_Color-Brush" val="listed">
       <atom type="framePreset">Paint_and_Sculpt_Color-Brush_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3556,7 +3412,6 @@
     </hash>
     <hash type="vpgroup" key="edit.ModelViewQuad_tab" val="listed">
       <atom type="framePreset">Model Quad View</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">0</atom>
       <atom type="QuadLock">0</atom>
@@ -3565,7 +3420,6 @@
     </hash>
     <hash type="vpgroup" key="edit.Model Quad View_vp_51779991546" val="listed">
       <atom type="framePreset">Model Quad_layout</atom>
-      <atom type="instanceSource"></atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -3611,13 +3465,9 @@
       <atom type="filterState">0</atom>
       <atom type="lineInterpreter">command</atom>
       <atom type="ExpansionCookie">78117997746:FoldStates</atom>
-      <atom type="filterStringUndoTab"></atom>
       <atom type="filterCriteriaUndoTab">0</atom>
-      <atom type="filterStringHistTab"></atom>
       <atom type="filterCriteriaHistTab">0</atom>
-      <atom type="filterStringListTab"></atom>
       <atom type="filterCriteriaListTab">0</atom>
-      <atom type="filterStringScriptsTab"></atom>
       <atom type="filterCriteriaScriptsTab">0</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -3637,13 +3487,9 @@
       <atom type="filterState">0</atom>
       <atom type="lineInterpreter">command</atom>
       <atom type="ExpansionCookie">21118997572:FoldStates</atom>
-      <atom type="filterStringUndoTab"></atom>
       <atom type="filterCriteriaUndoTab">0</atom>
-      <atom type="filterStringHistTab"></atom>
       <atom type="filterCriteriaHistTab">0</atom>
-      <atom type="filterStringListTab"></atom>
       <atom type="filterCriteriaListTab">0</atom>
-      <atom type="filterStringScriptsTab"></atom>
       <atom type="filterCriteriaScriptsTab">0</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -3663,13 +3509,9 @@
       <atom type="filterState">0</atom>
       <atom type="lineInterpreter">command</atom>
       <atom type="ExpansionCookie">71259997418:FoldStates</atom>
-      <atom type="filterStringUndoTab"></atom>
       <atom type="filterCriteriaUndoTab">0</atom>
-      <atom type="filterStringHistTab"></atom>
       <atom type="filterCriteriaHistTab">0</atom>
-      <atom type="filterStringListTab"></atom>
       <atom type="filterCriteriaListTab">0</atom>
-      <atom type="filterStringScriptsTab"></atom>
       <atom type="filterCriteriaScriptsTab">0</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -3689,13 +3531,9 @@
       <atom type="filterState">0</atom>
       <atom type="lineInterpreter">command</atom>
       <atom type="ExpansionCookie">84659997201:FoldStates</atom>
-      <atom type="filterStringUndoTab"></atom>
       <atom type="filterCriteriaUndoTab">0</atom>
-      <atom type="filterStringHistTab"></atom>
       <atom type="filterCriteriaHistTab">0</atom>
-      <atom type="filterStringListTab"></atom>
       <atom type="filterCriteriaListTab">0</atom>
-      <atom type="filterStringScriptsTab"></atom>
       <atom type="filterCriteriaScriptsTab">0</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -3715,13 +3553,9 @@
       <atom type="filterState">0</atom>
       <atom type="lineInterpreter">command</atom>
       <atom type="ExpansionCookie">73720996837:FoldStates</atom>
-      <atom type="filterStringUndoTab"></atom>
       <atom type="filterCriteriaUndoTab">0</atom>
-      <atom type="filterStringHistTab"></atom>
       <atom type="filterCriteriaHistTab">0</atom>
-      <atom type="filterStringListTab"></atom>
       <atom type="filterCriteriaListTab">0</atom>
-      <atom type="filterStringScriptsTab"></atom>
       <atom type="filterCriteriaScriptsTab">0</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -3741,13 +3575,9 @@
       <atom type="filterState">0</atom>
       <atom type="lineInterpreter">command</atom>
       <atom type="ExpansionCookie">63214996476:FoldStates</atom>
-      <atom type="filterStringUndoTab"></atom>
       <atom type="filterCriteriaUndoTab">0</atom>
-      <atom type="filterStringHistTab"></atom>
       <atom type="filterCriteriaHistTab">0</atom>
-      <atom type="filterStringListTab"></atom>
       <atom type="filterCriteriaListTab">0</atom>
-      <atom type="filterStringScriptsTab"></atom>
       <atom type="filterCriteriaScriptsTab">0</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -3767,13 +3597,9 @@
       <atom type="filterState">0</atom>
       <atom type="lineInterpreter">command</atom>
       <atom type="ExpansionCookie">22254996414:FoldStates</atom>
-      <atom type="filterStringUndoTab"></atom>
       <atom type="filterCriteriaUndoTab">0</atom>
-      <atom type="filterStringHistTab"></atom>
       <atom type="filterCriteriaHistTab">0</atom>
-      <atom type="filterStringListTab"></atom>
       <atom type="filterCriteriaListTab">0</atom>
-      <atom type="filterStringScriptsTab"></atom>
       <atom type="filterCriteriaScriptsTab">0</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -3792,7 +3618,7 @@
       <atom type="colWidthResultsTab">300 698</atom>
       <atom type="filterState">0</atom>
       <atom type="lineInterpreter">command</atom>
-      <atom type="ExpansionCookie">23377996040:FoldStates</atom>
+      <atom type="ExpansionCookie">23377509534:FoldStates</atom>
       <atom type="filterStringUndoTab"></atom>
       <atom type="filterCriteriaUndoTab">0</atom>
       <atom type="filterStringHistTab"></atom>
@@ -4341,26 +4167,6 @@
       <atom type="ViewportTitle">Absolute Scaling</atom>
       <atom type="ViewportClass">vpapplication</atom>
     </hash>
-    <hash type="attrform" key="edit.Form_Editor_layout_vp0" val="listed">
-      <list type="ExportedSheet">44760130348:sheet</list>
-      <atom type="TrackFormEdSelection">0</atom>
-      <atom type="Cookie">61716991252:StartCollapsed</atom>
-      <atom type="ViewportLock2">0 0</atom>
-      <atom type="MinHeader">1</atom>
-      <atom type="QuadLock">0</atom>
-      <atom type="ViewportTitle">Attribute Properties</atom>
-      <atom type="ViewportClass">vpapplication</atom>
-    </hash>
-    <hash type="attrform" key="edit.Form_Editor_layout_vp1" val="listed">
-      <list type="ExportedSheet">26629630326:sheet</list>
-      <atom type="TrackFormEdSelection">0</atom>
-      <atom type="Cookie">27171991254:StartCollapsed</atom>
-      <atom type="ViewportLock2">0 0</atom>
-      <atom type="MinHeader">0</atom>
-      <atom type="QuadLock">0</atom>
-      <atom type="ViewportTitle">Attribute Operations</atom>
-      <atom type="ViewportClass">vpapplication</atom>
-    </hash>
     <hash type="attrform" key="edit.Preferences Editor_layout_vp0" val="listed">
       <list type="ExportedSheet">prefs:general</list>
       <atom type="TrackFormEdSelection">0</atom>
@@ -4385,7 +4191,6 @@
     <hash type="attrform" key="edit.701_RenderView_RColumn02_vpg_lyt_vp_92359995966" val="listed">
       <list type="ExportedSheet">701_RenderView_PassManagement:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">96639710178:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4397,7 +4202,6 @@
     <hash type="attrform" key="edit.701_RenderView_ModoModes_vpg_lyt_vp_11483995975" val="listed">
       <list type="ExportedSheet">frm_RenderModesToolbar:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">84422705273:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4408,7 +4212,6 @@
     <hash type="attrform" key="edit.701_RenderView_ModoModes_vpg_lyt_vp_83563995976" val="listed">
       <list type="ExportedSheet">frm_QuickAccess_ModelAndSculpt:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">457503489762:StartCollapsed</atom>
       <atom type="ViewportLock2">1 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4420,7 +4223,6 @@
     <hash type="attrform" key="edit.701_RenderView_TimeControls_vpg_lyt_vp_38782995978" val="listed">
       <list type="ExportedSheet">time_and_keying_slim:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">98122706297:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4431,7 +4233,6 @@
     <hash type="attrform" key="edit.43285995228:vp" val="listed">
       <list type="ExportedSheet">70148607370:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">65266389974:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4443,7 +4244,6 @@
     <hash type="attrform" key="edit.25756995208:vp" val="listed">
       <list type="ExportedSheet">75693401411:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">65266389974:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4455,7 +4255,6 @@
     <hash type="attrform" key="edit.92731995110:vp" val="listed">
       <list type="ExportedSheet">36412670762:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">36098388219:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4467,7 +4266,6 @@
     <hash type="attrform" key="edit.56176995095:vp" val="listed">
       <list type="ExportedSheet">26260670413:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">36098388219:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4479,7 +4277,6 @@
     <hash type="attrform" key="edit.34434995080:vp" val="listed">
       <list type="ExportedSheet">83918670527:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">36098388219:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4491,7 +4288,6 @@
     <hash type="attrform" key="edit.79917994802:vp" val="listed">
       <list type="ExportedSheet">85146986336:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">36098388219:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4503,7 +4299,6 @@
     <hash type="attrform" key="edit.04181994718:vp" val="listed">
       <list type="ExportedSheet">36408579453:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">80080548480:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4515,7 +4310,6 @@
     <hash type="attrform" key="edit.47727994698:vp" val="listed">
       <list type="ExportedSheet">3640857945B:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">19362653073:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4527,7 +4321,6 @@
     <hash type="attrform" key="edit.64110994675:vp" val="listed">
       <list type="ExportedSheet">11680390458:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">39272390162:StartCollapsed</atom>
       <hash type="ToolChoiceState" key="84665608102:sheet">3</hash>
       <hash type="ToolChoiceState" key="09576390540:sheet">2</hash>
@@ -4542,7 +4335,6 @@
     <hash type="attrform" key="edit.05582994657:vp" val="listed">
       <list type="ExportedSheet">47696653293:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">39272390162:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4554,7 +4346,6 @@
     <hash type="attrform" key="edit.89682994630:vp" val="listed">
       <list type="ExportedSheet">63208617031:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">39272390162:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4566,7 +4357,6 @@
     <hash type="attrform" key="edit.SetupView_Keying_and_Time_with_Changes" val="listed">
       <list type="ExportedSheet">time_and_keying_with_changes:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">73115992599:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4588,7 +4378,6 @@
     <hash type="attrform" key="edit.SetupView_LHC_AnimateCommon_VP" val="listed">
       <list type="ExportedSheet">frm_animate_common:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">692780346536:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">1</atom>
@@ -4600,7 +4389,6 @@
     <hash type="attrform" key="edit.SetupView_TopBarRight_vp" val="listed">
       <list type="ExportedSheet">frm_AnimateModesToolbar:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">12742992635:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4611,7 +4399,6 @@
     <hash type="attrform" key="edit.SetupView_TopBarLeft_vp" val="listed">
       <list type="ExportedSheet">frm_QuickAccess_ModelAndSculpt:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">457503489762:StartCollapsed</atom>
       <atom type="ViewportLock2">1 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4623,7 +4410,6 @@
     <hash type="attrform" key="edit.LayoutView_Keying" val="listed">
       <list type="ExportedSheet">time_and_keying_slim:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">20452029296:StartCollapsed</atom>
       <atom type="ViewportLock2">0 1</atom>
       <atom type="MinHeader">0</atom>
@@ -4635,7 +4421,6 @@
     <hash type="attrform" key="edit.LayoutView_TopBarRight_vp" val="listed">
       <list type="ExportedSheet">frm_LayoutModesToolbar:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">97960992488:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4646,7 +4431,6 @@
     <hash type="attrform" key="edit.LayoutView_TopBarLeft_vp" val="listed">
       <list type="ExportedSheet">frm_QuickAccess_ModelAndSculpt:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">973366345420:StartCollapsed</atom>
       <atom type="ViewportLock2">1 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4658,7 +4442,6 @@
     <hash type="attrform" key="edit.LayoutView_ToolBar" val="listed">
       <list type="ExportedSheet">37383228960:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">02861992509:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4669,7 +4452,6 @@
     <hash type="attrform" key="edit.UV_Edit_View_TopBarRight_vp" val="listed">
       <list type="ExportedSheet">frm_ModoModesToolbar:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">77622991831:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4680,7 +4462,6 @@
     <hash type="attrform" key="edit.UV_Edit_View_TopBarLeft_vp" val="listed">
       <list type="ExportedSheet">frm_QuickAccess_ModelAndUVSculpt:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">667703114676:StartCollapsed</atom>
       <atom type="ViewportLock2">1 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4692,7 +4473,6 @@
     <hash type="attrform" key="edit.UV_Edit_View_ToolBar" val="listed">
       <list type="ExportedSheet">92132641625:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">33784991851:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4703,7 +4483,6 @@
     <hash type="attrform" key="edit.TopoView_TopBarRight_vp" val="listed">
       <list type="ExportedSheet">frm_ModoModesToolbar:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">81635991667:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4714,7 +4493,6 @@
     <hash type="attrform" key="edit.TopoView_TopBarLeft_vp" val="listed">
       <list type="ExportedSheet">frm_QuickAccess_ModelAndSculpt:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">973366345420:StartCollapsed</atom>
       <atom type="ViewportLock2">1 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4748,7 +4526,6 @@
     <hash type="attrform" key="edit.Paint_and_Sculpt_Single_TopBarRight_vp" val="listed">
       <list type="ExportedSheet">frm_ModoModesToolbar:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">58750991574:StartCollapsed</atom>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
@@ -4759,13 +4536,32 @@
     <hash type="attrform" key="edit.Paint_and_Sculpt_Single_TopBarLeft_vp" val="listed">
       <list type="ExportedSheet">frm_QuickAccess_ModelAndPresets:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash"></atom>
       <atom type="Cookie">973366345420:StartCollapsed</atom>
       <atom type="ViewportLock2">1 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
       <atom type="ViewportTitle">Model and Presets</atom>
       <atom type="IdealLock">181 0</atom>
+      <atom type="ViewportClass">vpapplication</atom>
+    </hash>
+    <hash type="attrform" key="edit.Form_Editor_layout_vp0" val="listed">
+      <list type="ExportedSheet">44760130348:sheet</list>
+      <atom type="TrackFormEdSelection">0</atom>
+      <atom type="Cookie">61716991252:StartCollapsed</atom>
+      <atom type="ViewportLock2">0 0</atom>
+      <atom type="MinHeader">1</atom>
+      <atom type="QuadLock">0</atom>
+      <atom type="ViewportTitle">Attribute Properties</atom>
+      <atom type="ViewportClass">vpapplication</atom>
+    </hash>
+    <hash type="attrform" key="edit.Form_Editor_layout_vp1" val="listed">
+      <list type="ExportedSheet">26629630326:sheet</list>
+      <atom type="TrackFormEdSelection">0</atom>
+      <atom type="Cookie">27171991254:StartCollapsed</atom>
+      <atom type="ViewportLock2">0 0</atom>
+      <atom type="MinHeader">0</atom>
+      <atom type="QuadLock">0</atom>
+      <atom type="ViewportTitle">Attribute Operations</atom>
       <atom type="ViewportClass">vpapplication</atom>
     </hash>
     <hash type="attrform" key="edit.ModelViewSingle_TopBarRight_vp" val="listed">
@@ -4816,8 +4612,9 @@
     <hash type="attrform" key="edit.modoTools_Tools_Layout_vp" val="listed">
       <list type="ExportedSheet">frm_modoTools_parent:sheet</list>
       <atom type="TrackFormEdSelection">0</atom>
-      <atom type="PreviousTabHash">frm_modoTools_Basic:sheet</atom>
+      <atom type="PreviousTabHash">frm_modoTools_Edge:sheet</atom>
       <atom type="Cookie">25043056152:StartCollapsed</atom>
+      <hash type="ToolChoiceState" key="frm_modoTools_2DDrawing:sheet">1</hash>
       <atom type="ViewportLock2">0 0</atom>
       <atom type="MinHeader">1</atom>
       <atom type="QuadLock">0</atom>
@@ -4921,7 +4718,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5023,7 +4819,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5125,7 +4920,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5228,7 +5022,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5330,7 +5123,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5432,7 +5224,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5534,7 +5325,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5636,7 +5426,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5738,7 +5527,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5839,7 +5627,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5940,7 +5727,6 @@
       <atom type="BISize">1 1</atom>
       <atom type="BIAngle">0</atom>
       <atom type="BITransp">0</atom>
-      <atom type="BIImage"></atom>
       <atom type="Lights">2</atom>
       <atom type="LIntensity1">0.7</atom>
       <atom type="LColor1">1 1 1</atom>
@@ -5984,8 +5770,8 @@
       <atom type="ShowInstances">yes</atom>
       <atom type="Independent">no no no</atom>
       <atom type="Master">perspective</atom>
-      <atom type="Center">0 0 0</atom>
-      <atom type="Scale">533.75</atom>
+      <atom type="Center">0.2697839 2.943617 -5.552384</atom>
+      <atom type="Scale">127.892</atom>
       <atom type="Style">advgl</atom>
       <atom type="StyleB">wire</atom>
       <atom type="Meta">567</atom>
@@ -6031,7 +5817,7 @@
       <atom type="SameAsActive">no</atom>
       <atom type="InactiveInvisible">no</atom>
       <atom type="GLInfo">yes</atom>
-      <atom type="Xfrm">1 0 0 0 1 0 0 0 1</atom>
+      <atom type="Xfrm">-0.8129463 -0.01170365 -0.5822211 -0.2824166 0.8822779 0.3765987 0.5092732 0.4705834 -0.7205499</atom>
       <atom type="BIFlags">0</atom>
       <atom type="BIMaxRes">1024</atom>
       <atom type="BIUseAspect">1</atom>
@@ -6145,7 +5931,6 @@
       <atom type="Hash">Meshes</atom>
       <atom type="OverrideDefaultBasePaths">Meshes</atom>
       <atom type="FilterBy">(none)</atom>
-      <atom type="Identifier"></atom>
       <atom type="UseAlternateMode">0</atom>
       <atom type="Mode">vthumbs</atom>
       <atom type="ViewportLock2">0 0</atom>
@@ -6158,7 +5943,6 @@
       <atom type="Hash">SculptPresets</atom>
       <atom type="OverrideDefaultBasePaths">SculptPresets</atom>
       <atom type="FilterBy">(none)</atom>
-      <atom type="Identifier"></atom>
       <atom type="UseAlternateMode">1</atom>
       <atom type="Mode">vthumbs</atom>
       <atom type="AllowDragAndDrop">0</atom>
@@ -6756,6 +6540,30 @@
       <atom type="ViewportTitle">Preferences Editor</atom>
       <atom type="ViewportClass">vpapplication</atom>
     </hash>
+    <hash type="channels" key="edit.Channels:tabpreset" val="listed">
+      <atom type="GroupBy">item</atom>
+      <atom type="ShowAdvanced">1</atom>
+      <atom type="ShowMerged">0</atom>
+      <atom type="ShowAddXfrm">1</atom>
+      <atom type="ShowGroupMembers">0</atom>
+      <atom type="ExpansionCookie">63163252359:FoldStates</atom>
+      <atom type="ViewportLock2">0 0</atom>
+      <atom type="MinHeader">1</atom>
+      <atom type="QuadLock">0</atom>
+      <atom type="ViewportTitle">Channels</atom>
+      <atom type="ViewportClass">vpdataLists</atom>
+    </hash>
+    <hash type="clip" key="edit.RightHandClmn_TopTabs:tabpresetClips" val="listed">
+      <atom type="ThumbnailSize">small</atom>
+      <atom type="Mode">list</atom>
+      <atom type="GalleryZoom">128</atom>
+      <atom type="FilterHash">87689510378:cliplist</atom>
+      <atom type="ViewportLock2">0 0</atom>
+      <atom type="MinHeader">0</atom>
+      <atom type="QuadLock">0</atom>
+      <atom type="ViewportTitle">Clips</atom>
+      <atom type="ViewportClass">vpdataLists</atom>
+    </hash>
   </atom>
   <atom type="SimpleStringFilters">
     <hash type="SimpleStringFilter" key="15874990839:itemlist">
@@ -6775,14 +6583,12 @@
       <atom type="FilteringOn">0</atom>
       <atom type="MatchCase">0</atom>
       <atom type="MatchMode">substring</atom>
-      <atom type="Pattern"></atom>
       <atom type="FlatTree">0</atom>
     </hash>
     <hash type="SimpleStringFilter" key="03000995898:itemlist">
       <atom type="FilteringOn">0</atom>
       <atom type="MatchCase">0</atom>
       <atom type="MatchMode">substring</atom>
-      <atom type="Pattern"></atom>
       <atom type="FlatTree">0</atom>
     </hash>
     <hash type="SimpleStringFilter" key="61893991256:attre">
@@ -6790,6 +6596,12 @@
       <atom type="MatchCase">0</atom>
       <atom type="MatchMode">substring</atom>
       <atom type="FlatTree">0</atom>
+    </hash>
+    <hash type="SimpleStringFilter" key="87689510378:cliplist">
+      <atom type="FilteringOn">0</atom>
+      <atom type="MatchCase">0</atom>
+      <atom type="MatchMode">substring</atom>
+      <atom type="Pattern"></atom>
     </hash>
   </atom>
   <atom type="DirBrowser">
@@ -6840,6 +6652,10 @@
     <hash type="Form" key="19660094920:sheet">
       <atom type="Cookie">33573998288:StartCollapsed</atom>
     </hash>
+    <hash type="Form" key="27036209057:sheet">
+      <atom type="PreviousTabHash">92967627647:sheet</atom>
+      <atom type="Cookie">77622514775:StartCollapsed</atom>
+    </hash>
   </atom>
   <atom type="UIImages">
     <list type="Image">
@@ -6847,5 +6663,900 @@
       <atom type="Client">attricon</atom>
       <atom type="LastUsed">1377977093 8099370</atom>
     </list>
+  </atom>
+  <atom type="ToolPresetLists">
+    <hash type="ToolCache" key="TransformRotateItem">
+      <list type="Tool" val="xfrm.transform +EATSFQG 'ACTR'">
+        <list type="Attr">TX float 0.000000</list>
+        <list type="Attr">TY float 0.000000</list>
+        <list type="Attr">TZ float 0.000000</list>
+        <list type="Attr">RX float 0.000000</list>
+        <list type="Attr">RY float 0.000000</list>
+        <list type="Attr">RZ float 0.000000</list>
+        <list type="Attr">SX float 1.000000</list>
+        <list type="Attr">SY float 1.000000</list>
+        <list type="Attr">SZ float 1.000000</list>
+        <list type="Attr">U float 0.000000</list>
+        <list type="Attr">V float 0.000000</list>
+        <list type="Attr">T integer 0</list>
+        <list type="Attr">R integer 1</list>
+        <list type="Attr">S integer 0</list>
+        <list type="Attr">H integer 1</list>
+        <list type="Attr">rightX float 1.000000</list>
+        <list type="Attr">rightY float 0.000000</list>
+        <list type="Attr">rightZ float 0.000000</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+        <list type="Attr">fwdX float 0.000000</list>
+        <list type="Attr">fwdY float 0.000000</list>
+        <list type="Attr">fwdZ float 1.000000</list>
+        <list type="Attr">chan1 float 0.000000</list>
+        <list type="Attr">chan2 float 0.000000</list>
+        <list type="Attr">chan3 float 0.000000</list>
+        <list type="Attr">chan4 float 0.000000</list>
+        <list type="Attr">chan5 float 0.000000</list>
+        <list type="Attr">chan6 float 0.000000</list>
+        <list type="Attr">chan7 float 0.000000</list>
+        <list type="Attr">chan8 float 0.000000</list>
+        <list type="Attr">absHandle integer 0</list>
+        <list type="Attr">absX float 0.102726</list>
+        <list type="Attr">absY float 0.102726</list>
+        <list type="Attr">absZ float 0.102726</list>
+        <list type="Attr">negScale integer 1</list>
+        <list type="Attr">posOnly integer 0</list>
+        <list type="Attr">pivot integer 0</list>
+        <list type="Attr">gimbal integer 1</list>
+        <list type="Attr">comp integer 0</list>
+        <list type="Attr">lockUV integer 0</list>
+        <list type="Attr">morph integer 0</list>
+        <list type="Attr">cenHandle integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="Flex">
+      <list type="Tool" val="xfrm.transform +EASFQG 'ACTR'">
+        <list type="Attr">TX float 0.000000</list>
+        <list type="Attr">TY float 0.000000</list>
+        <list type="Attr">TZ float 0.000000</list>
+        <list type="Attr">RX float 0.000000</list>
+        <list type="Attr">RY float 0.000000</list>
+        <list type="Attr">RZ float 0.000000</list>
+        <list type="Attr">SX float 1.000000</list>
+        <list type="Attr">SY float 1.000000</list>
+        <list type="Attr">SZ float 1.000000</list>
+        <list type="Attr">U float 0.000000</list>
+        <list type="Attr">V float 0.000000</list>
+        <list type="Attr">T integer 1</list>
+        <list type="Attr">R integer 1</list>
+        <list type="Attr">S integer 1</list>
+        <list type="Attr">H integer 0</list>
+        <list type="Attr">rightX float 1.000000</list>
+        <list type="Attr">rightY float 0.000000</list>
+        <list type="Attr">rightZ float 0.000000</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+        <list type="Attr">fwdX float 0.000000</list>
+        <list type="Attr">fwdY float 0.000000</list>
+        <list type="Attr">fwdZ float 1.000000</list>
+        <list type="Attr">chan1 float 0.000000</list>
+        <list type="Attr">chan2 float 0.000000</list>
+        <list type="Attr">chan3 float 0.000000</list>
+        <list type="Attr">chan4 float 0.000000</list>
+        <list type="Attr">chan5 float 0.000000</list>
+        <list type="Attr">chan6 float 0.000000</list>
+        <list type="Attr">chan7 float 0.000000</list>
+        <list type="Attr">chan8 float 0.000000</list>
+        <list type="Attr">absHandle integer 0</list>
+        <list type="Attr">absX float 1.627748</list>
+        <list type="Attr">absY float 1.627748</list>
+        <list type="Attr">absZ float 1.627748</list>
+        <list type="Attr">negScale integer 1</list>
+        <list type="Attr">posOnly integer 0</list>
+        <list type="Attr">pivot integer 0</list>
+        <list type="Attr">gimbal integer 1</list>
+        <list type="Attr">comp integer 0</list>
+        <list type="Attr">lockUV integer 0</list>
+        <list type="Attr">morph integer 0</list>
+        <list type="Attr">cenHandle integer 1</list>
+      </list>
+      <list type="Tool" val="falloff.selection +ESFQG 'WGHT'">
+        <list type="Attr">steps integer 2</list>
+        <list type="Attr">mix integer 0</list>
+        <list type="Attr">shape integer 3</list>
+        <list type="Attr">p0 float 0.000000</list>
+        <list type="Attr">p1 float 0.000000</list>
+      </list>
+      <list type="Tool" val="axis.select +E 'AXIS'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">axis integer -1</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+      </list>
+      <list type="Tool" val="center.border +E 'ACEN'">
+        <list type="Attr">cenX float 0.000000</list>
+        <list type="Attr">cenY float 0.000000</list>
+        <list type="Attr">cenZ float 0.000000</list>
+        <list type="Attr">cenU float 0.000000</list>
+        <list type="Attr">cenV float 0.000000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="TransformMove">
+      <list type="Tool" val="xfrm.transform +EASFQG 'ACTR'">
+        <list type="Attr">TX float 0.000000</list>
+        <list type="Attr">TY float 0.000000</list>
+        <list type="Attr">TZ float 0.000000</list>
+        <list type="Attr">RX float 0.000000</list>
+        <list type="Attr">RY float 0.000000</list>
+        <list type="Attr">RZ float 0.000000</list>
+        <list type="Attr">SX float 1.000000</list>
+        <list type="Attr">SY float 1.000000</list>
+        <list type="Attr">SZ float 1.000000</list>
+        <list type="Attr">U float 0.000000</list>
+        <list type="Attr">V float 0.000000</list>
+        <list type="Attr">T integer 1</list>
+        <list type="Attr">R integer 0</list>
+        <list type="Attr">S integer 0</list>
+        <list type="Attr">H integer 0</list>
+        <list type="Attr">rightX float 1.000000</list>
+        <list type="Attr">rightY float 0.000000</list>
+        <list type="Attr">rightZ float 0.000000</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+        <list type="Attr">fwdX float 0.000000</list>
+        <list type="Attr">fwdY float 0.000000</list>
+        <list type="Attr">fwdZ float 1.000000</list>
+        <list type="Attr">chan1 float 0.000000</list>
+        <list type="Attr">chan2 float 0.000000</list>
+        <list type="Attr">chan3 float 0.000000</list>
+        <list type="Attr">chan4 float 0.000000</list>
+        <list type="Attr">chan5 float 0.000000</list>
+        <list type="Attr">chan6 float 0.000000</list>
+        <list type="Attr">chan7 float 0.000000</list>
+        <list type="Attr">chan8 float 0.000000</list>
+        <list type="Attr">absHandle integer 0</list>
+        <list type="Attr">absX float 0.783347</list>
+        <list type="Attr">absY float 0.783347</list>
+        <list type="Attr">absZ float 0.783347</list>
+        <list type="Attr">negScale integer 1</list>
+        <list type="Attr">posOnly integer 0</list>
+        <list type="Attr">pivot integer 0</list>
+        <list type="Attr">gimbal integer 1</list>
+        <list type="Attr">comp integer 0</list>
+        <list type="Attr">lockUV integer 0</list>
+        <list type="Attr">morph integer 0</list>
+        <list type="Attr">cenHandle integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="prim.pen">
+      <list type="Tool" val="prim.pen +ESFQG 'ACTR'">
+        <list type="Attr">type integer 1</list>
+        <list type="Attr">current integer 0</list>
+        <list type="Attr">posX float 0.000000</list>
+        <list type="Attr">posY float 0.000000</list>
+        <list type="Attr">posZ float 0.000000</list>
+        <list type="Attr">flip integer 0</list>
+        <list type="Attr">quad integer 0</list>
+        <list type="Attr">dist float 0.096384</list>
+        <list type="Attr">snapln integer 1</list>
+        <list type="Attr">snapax integer 1</list>
+        <list type="Attr">snapcn integer 1</list>
+        <list type="Attr">inset float 0.000000</list>
+        <list type="Attr">segs integer 10</list>
+        <list type="Attr">wall integer 0</list>
+        <list type="Attr">close integer 0</list>
+        <list type="Attr">offset float 0.000000</list>
+        <list type="Attr">merge integer 1</list>
+        <list type="Attr">showAngle integer 0</list>
+        <list type="Attr">align integer 1</list>
+        <list type="Attr">orient integer 0</list>
+        <list type="Attr">local integer 0</list>
+        <list type="Attr">corner integer 0</list>
+        <list type="Attr">uvs integer 0</list>
+        <list type="Attr">proj integer 1</list>
+        <list type="Attr">showHandle integer 0</list>
+        <list type="Attr">raycast integer 0</list>
+        <list type="Attr">showNumber integer 0</list>
+        <list type="Attr">selectNew integer 1</list>
+        <list type="Attr">loadEdges integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="TransformRotate">
+      <list type="Tool" val="xfrm.transform +EASFQG 'ACTR'">
+        <list type="Attr">TX float 0.000000</list>
+        <list type="Attr">TY float 0.000000</list>
+        <list type="Attr">TZ float 0.000000</list>
+        <list type="Attr">RX float 0.017453</list>
+        <list type="Attr">RY float 0.000000</list>
+        <list type="Attr">RZ float 0.000000</list>
+        <list type="Attr">SX float 1.000000</list>
+        <list type="Attr">SY float 1.000000</list>
+        <list type="Attr">SZ float 1.000000</list>
+        <list type="Attr">U float 0.000000</list>
+        <list type="Attr">V float 0.000000</list>
+        <list type="Attr">T integer 0</list>
+        <list type="Attr">R integer 1</list>
+        <list type="Attr">S integer 0</list>
+        <list type="Attr">H integer 1</list>
+        <list type="Attr">rightX float 1.000000</list>
+        <list type="Attr">rightY float 0.000000</list>
+        <list type="Attr">rightZ float 0.000000</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+        <list type="Attr">fwdX float 0.000000</list>
+        <list type="Attr">fwdY float 0.000000</list>
+        <list type="Attr">fwdZ float 1.000000</list>
+        <list type="Attr">chan1 float 0.000000</list>
+        <list type="Attr">chan2 float 0.000000</list>
+        <list type="Attr">chan3 float 0.000000</list>
+        <list type="Attr">chan4 float 0.000000</list>
+        <list type="Attr">chan5 float 0.000000</list>
+        <list type="Attr">chan6 float 0.000000</list>
+        <list type="Attr">chan7 float 0.000000</list>
+        <list type="Attr">chan8 float 0.000000</list>
+        <list type="Attr">absHandle integer 0</list>
+        <list type="Attr">absX float 1.103815</list>
+        <list type="Attr">absY float 1.103815</list>
+        <list type="Attr">absZ float 1.103815</list>
+        <list type="Attr">negScale integer 1</list>
+        <list type="Attr">posOnly integer 0</list>
+        <list type="Attr">pivot integer 0</list>
+        <list type="Attr">gimbal integer 1</list>
+        <list type="Attr">comp integer 0</list>
+        <list type="Attr">lockUV integer 0</list>
+        <list type="Attr">morph integer 0</list>
+        <list type="Attr">cenHandle integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="snap.grid">
+      <list type="Tool" val="snap.grid +ESFQG 'SNAP'">
+        <list type="Attr">gridSize float 0.200000</list>
+        <list type="Attr">showGrid integer 0</list>
+        <list type="Attr">dist float 1.000000</list>
+        <list type="Attr">fixedGrid integer 0</list>
+        <list type="Attr">twoD integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="snap.element">
+      <list type="Tool" val="snap.element +ESFQG 'SNAP'">
+        <list type="Attr">mode integer 2</list>
+        <list type="Attr">size integer 15</list>
+        <list type="Attr">fglayer integer 2</list>
+        <list type="Attr">twoD integer 0</list>
+        <list type="Attr">fixed integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="snap.pivot">
+      <list type="Tool" val="snap.pivot +ESFQG 'SNAP'">
+        <list type="Attr">size float 15.000000</list>
+        <list type="Attr">type integer 3</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="Radial Sweep">
+      <list type="Tool" val="effector.sweep +ESFQG 'ACTR'">
+        <list type="Attr">uvs integer 1</list>
+        <list type="Attr">flip integer 0</list>
+        <list type="Attr">cap0 integer 1</list>
+        <list type="Attr">cap1 integer 1</list>
+        <list type="Attr">size float 1.000000</list>
+        <list type="Attr">tolerance float 0.001000</list>
+        <list type="Attr">offsetx float 0.000000</list>
+        <list type="Attr">offsety float 0.000000</list>
+        <list type="Attr">reversex integer 0</list>
+        <list type="Attr">reversey integer 0</list>
+        <list type="Attr">pivot integer 5</list>
+        <list type="Attr">angle float 0.000000</list>
+      </list>
+      <list type="Tool" val="gen.helix +ESFQG 'PTCL'">
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">sides integer 24</list>
+        <list type="Attr">vecX float 0.000000</list>
+        <list type="Attr">vecY float 0.000000</list>
+        <list type="Attr">vecZ float 0.001000</list>
+        <list type="Attr">start float -1.570796</list>
+        <list type="Attr">end float 1.570796</list>
+        <list type="Attr">offset float 0.000000</list>
+      </list>
+      <list type="Tool" val="center.auto +ESFQG 'ACEN'">
+        <list type="Attr">cenX float -0.000100</list>
+        <list type="Attr">cenY float 1.649900</list>
+        <list type="Attr">cenZ float -10.000000</list>
+        <list type="Attr">cenU float -0.000100</list>
+        <list type="Attr">cenV float 1.649900</list>
+      </list>
+      <list type="Tool" val="content.preset +ESFQG 'CONT'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">offsetX float 0.000000</list>
+        <list type="Attr">offsetY float 0.000000</list>
+        <list type="Attr">offsetZ float 0.000000</list>
+        <list type="Attr">scale float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">enable integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="prim.cube">
+      <list type="Tool" val="prim.cube +ESFQG 'ACTR'">
+        <list type="Attr">cenX float -17.925000</list>
+        <list type="Attr">cenY float 3.960000</list>
+        <list type="Attr">cenZ float 10.290000</list>
+        <list type="Attr">sizeX float 1.210000</list>
+        <list type="Attr">sizeY float 10.680000</list>
+        <list type="Attr">sizeZ float 1.320000</list>
+        <list type="Attr">segmentsX integer 1</list>
+        <list type="Attr">segmentsY integer 1</list>
+        <list type="Attr">segmentsZ integer 1</list>
+        <list type="Attr">radius float 0.000000</list>
+        <list type="Attr">segmentsR integer 3</list>
+        <list type="Attr">sharp integer 1</list>
+        <list type="Attr">axis integer 1</list>
+        <list type="Attr">uvs integer 1</list>
+        <list type="Attr">minX float -18.530000</list>
+        <list type="Attr">minY float -1.380000</list>
+        <list type="Attr">minZ float 9.630000</list>
+        <list type="Attr">maxX float -17.320000</list>
+        <list type="Attr">maxY float 9.300000</list>
+        <list type="Attr">maxZ float 10.950000</list>
+        <list type="Attr">patch integer 0</list>
+        <list type="Attr">flip integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="TransformScale">
+      <list type="Tool" val="xfrm.transform +EASFQG 'ACTR'">
+        <list type="Attr">TX float 0.000000</list>
+        <list type="Attr">TY float 0.000000</list>
+        <list type="Attr">TZ float 0.000000</list>
+        <list type="Attr">RX float 0.000000</list>
+        <list type="Attr">RY float 0.000000</list>
+        <list type="Attr">RZ float 0.000000</list>
+        <list type="Attr">SX float 1.200000</list>
+        <list type="Attr">SY float 1.000000</list>
+        <list type="Attr">SZ float 1.000000</list>
+        <list type="Attr">U float 0.000000</list>
+        <list type="Attr">V float 0.000000</list>
+        <list type="Attr">T integer 0</list>
+        <list type="Attr">R integer 0</list>
+        <list type="Attr">S integer 1</list>
+        <list type="Attr">H integer 2</list>
+        <list type="Attr">rightX float 1.000000</list>
+        <list type="Attr">rightY float 0.000000</list>
+        <list type="Attr">rightZ float 0.000000</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+        <list type="Attr">fwdX float 0.000000</list>
+        <list type="Attr">fwdY float 0.000000</list>
+        <list type="Attr">fwdZ float 1.000000</list>
+        <list type="Attr">chan1 float 0.000000</list>
+        <list type="Attr">chan2 float 0.000000</list>
+        <list type="Attr">chan3 float 0.000000</list>
+        <list type="Attr">chan4 float 0.000000</list>
+        <list type="Attr">chan5 float 0.000000</list>
+        <list type="Attr">chan6 float 0.000000</list>
+        <list type="Attr">chan7 float 0.000000</list>
+        <list type="Attr">chan8 float 0.000000</list>
+        <list type="Attr">absHandle integer 0</list>
+        <list type="Attr">absX float 0.606141</list>
+        <list type="Attr">absY float 0.606141</list>
+        <list type="Attr">absZ float 0.606141</list>
+        <list type="Attr">negScale integer 1</list>
+        <list type="Attr">posOnly integer 0</list>
+        <list type="Attr">pivot integer 0</list>
+        <list type="Attr">gimbal integer 1</list>
+        <list type="Attr">comp integer 0</list>
+        <list type="Attr">lockUV integer 0</list>
+        <list type="Attr">morph integer 0</list>
+        <list type="Attr">cenHandle integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="TransformMoveItem">
+      <list type="Tool" val="xfrm.transform +EATSFQG 'ACTR'">
+        <list type="Attr">TX float 0.050000</list>
+        <list type="Attr">TY float 0.000000</list>
+        <list type="Attr">TZ float 0.000000</list>
+        <list type="Attr">RX float 0.000000</list>
+        <list type="Attr">RY float 0.000000</list>
+        <list type="Attr">RZ float 0.000000</list>
+        <list type="Attr">SX float 1.000000</list>
+        <list type="Attr">SY float 1.000000</list>
+        <list type="Attr">SZ float 1.000000</list>
+        <list type="Attr">U float 0.050000</list>
+        <list type="Attr">V float 0.000000</list>
+        <list type="Attr">T integer 1</list>
+        <list type="Attr">R integer 0</list>
+        <list type="Attr">S integer 0</list>
+        <list type="Attr">H integer 0</list>
+        <list type="Attr">rightX float 1.000000</list>
+        <list type="Attr">rightY float 0.000000</list>
+        <list type="Attr">rightZ float 0.000000</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+        <list type="Attr">fwdX float 0.000000</list>
+        <list type="Attr">fwdY float 0.000000</list>
+        <list type="Attr">fwdZ float 1.000000</list>
+        <list type="Attr">chan1 float 0.000000</list>
+        <list type="Attr">chan2 float 0.000000</list>
+        <list type="Attr">chan3 float 0.000000</list>
+        <list type="Attr">chan4 float 0.000000</list>
+        <list type="Attr">chan5 float 0.000000</list>
+        <list type="Attr">chan6 float 0.000000</list>
+        <list type="Attr">chan7 float 0.000000</list>
+        <list type="Attr">chan8 float 0.000000</list>
+        <list type="Attr">absHandle integer 0</list>
+        <list type="Attr">absX float 0.698581</list>
+        <list type="Attr">absY float 0.698581</list>
+        <list type="Attr">absZ float 0.698581</list>
+        <list type="Attr">negScale integer 1</list>
+        <list type="Attr">posOnly integer 0</list>
+        <list type="Attr">pivot integer 0</list>
+        <list type="Attr">gimbal integer 1</list>
+        <list type="Attr">comp integer 0</list>
+        <list type="Attr">lockUV integer 0</list>
+        <list type="Attr">morph integer 0</list>
+        <list type="Attr">cenHandle integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="actr.auto">
+      <list type="Tool" val="center.auto +ESFQG 'ACEN'">
+        <list type="Attr">cenX float 0.000000</list>
+        <list type="Attr">cenY float 2.728000</list>
+        <list type="Attr">cenZ float -8.725000</list>
+        <list type="Attr">cenU float 0.000000</list>
+        <list type="Attr">cenV float 2.728000</list>
+      </list>
+      <list type="Tool" val="axis.auto +ESFQG 'AXIS'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+        <list type="Attr">mode integer 0</list>
+        <list type="Attr">startX float 1.228980</list>
+        <list type="Attr">startY float 0.000000</list>
+        <list type="Attr">startZ float 0.000000</list>
+        <list type="Attr">endX float 0.000000</list>
+        <list type="Attr">endY float 1.228980</list>
+        <list type="Attr">endZ float 0.000000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="axis.auto">
+      <list type="Tool" val="axis.auto +ESFQG 'AXIS'">
+        <list type="Attr">axisX float 1.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 0.000000</list>
+        <list type="Attr">axis integer 0</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 0.000000</list>
+        <list type="Attr">upZ float 1.000000</list>
+        <list type="Attr">mode integer 0</list>
+        <list type="Attr">startX float 3.040479</list>
+        <list type="Attr">startY float 0.000000</list>
+        <list type="Attr">startZ float 0.000000</list>
+        <list type="Attr">endX float 0.000000</list>
+        <list type="Attr">endY float 3.040479</list>
+        <list type="Attr">endZ float 0.000000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="actr.select">
+      <list type="Tool" val="center.select +ESFQGI 'ACEN'">
+        <list type="Attr">cenX float 0.000000</list>
+        <list type="Attr">cenY float 0.000000</list>
+        <list type="Attr">cenZ float 0.000000</list>
+        <list type="Attr">cenU float 0.000000</list>
+        <list type="Attr">cenV float 0.000000</list>
+        <list type="Attr">mode integer 0</list>
+        <list type="Attr">sizeX float 0.000000</list>
+        <list type="Attr">sizeY float 0.000000</list>
+        <list type="Attr">sizeZ float 0.000000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="axis.select">
+      <list type="Tool" val="axis.select +ESFQG 'AXIS'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">axis integer -1</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="actr.element">
+      <list type="Tool" val="center.element +ESFQG 'ACEN'">
+        <list type="Attr">cenX float -13.800000</list>
+        <list type="Attr">cenY float 12.640000</list>
+        <list type="Attr">cenZ float -2.310000</list>
+        <list type="Attr">cenU float -13.800000</list>
+        <list type="Attr">cenV float 12.640000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="axis.element">
+      <list type="Tool" val="axis.element +ESFQG 'AXIS'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="actr.parent">
+      <list type="Tool" val="center.parent +ESFQG 'ACEN'">
+        <list type="Attr">cenX float 0.000000</list>
+        <list type="Attr">cenY float 0.000000</list>
+        <list type="Attr">cenZ float 0.000000</list>
+        <list type="Attr">cenU float 0.000000</list>
+        <list type="Attr">cenV float 0.000000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="axis.parent">
+      <list type="Tool" val="axis.parent +ESFQG 'AXIS'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">axis integer -1</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="prim.curve">
+      <list type="Tool">prim.curve +EASFQG 'ACTR'</list>
+    </hash>
+    <hash type="ToolCache" key="TransformScaleItem">
+      <list type="Tool" val="xfrm.transform +EATSFQG 'ACTR'">
+        <list type="Attr">TX float 0.000000</list>
+        <list type="Attr">TY float 0.000000</list>
+        <list type="Attr">TZ float 0.000000</list>
+        <list type="Attr">RX float 0.000000</list>
+        <list type="Attr">RY float 0.000000</list>
+        <list type="Attr">RZ float 0.000000</list>
+        <list type="Attr">SX float 1.000000</list>
+        <list type="Attr">SY float 1.000000</list>
+        <list type="Attr">SZ float 1.000000</list>
+        <list type="Attr">U float 0.000000</list>
+        <list type="Attr">V float 0.000000</list>
+        <list type="Attr">T integer 0</list>
+        <list type="Attr">R integer 0</list>
+        <list type="Attr">S integer 1</list>
+        <list type="Attr">H integer 2</list>
+        <list type="Attr">rightX float 1.000000</list>
+        <list type="Attr">rightY float 0.000000</list>
+        <list type="Attr">rightZ float 0.000000</list>
+        <list type="Attr">upX float 0.000000</list>
+        <list type="Attr">upY float 1.000000</list>
+        <list type="Attr">upZ float 0.000000</list>
+        <list type="Attr">fwdX float 0.000000</list>
+        <list type="Attr">fwdY float 0.000000</list>
+        <list type="Attr">fwdZ float 1.000000</list>
+        <list type="Attr">chan1 float 0.000000</list>
+        <list type="Attr">chan2 float 0.000000</list>
+        <list type="Attr">chan3 float 0.000000</list>
+        <list type="Attr">chan4 float 0.000000</list>
+        <list type="Attr">chan5 float 0.000000</list>
+        <list type="Attr">chan6 float 0.000000</list>
+        <list type="Attr">chan7 float 0.000000</list>
+        <list type="Attr">chan8 float 0.000000</list>
+        <list type="Attr">absHandle integer 0</list>
+        <list type="Attr">absX float 0.698581</list>
+        <list type="Attr">absY float 0.698581</list>
+        <list type="Attr">absZ float 0.698581</list>
+        <list type="Attr">negScale integer 1</list>
+        <list type="Attr">posOnly integer 0</list>
+        <list type="Attr">pivot integer 0</list>
+        <list type="Attr">gimbal integer 1</list>
+        <list type="Attr">comp integer 0</list>
+        <list type="Attr">lockUV integer 0</list>
+        <list type="Attr">morph integer 0</list>
+        <list type="Attr">cenHandle integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="falloff.cylinder">
+      <list type="Tool" val="falloff.cylinder +ESFQG 'WGHT'">
+        <list type="Attr">cenX float 0.049900</list>
+        <list type="Attr">cenY float 4.362400</list>
+        <list type="Attr">cenZ float -9.566000</list>
+        <list type="Attr">sizX float 2.635785</list>
+        <list type="Attr">sizY float 2.712600</list>
+        <list type="Attr">sizZ float 2.476000</list>
+        <list type="Attr">range float 1.000000</list>
+        <list type="Attr">axis integer 1</list>
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 1.000000</list>
+        <list type="Attr">axisZ float 0.000000</list>
+        <list type="Attr">shape integer 0</list>
+        <list type="Attr">p0 float 0.000000</list>
+        <list type="Attr">p1 float 0.000000</list>
+        <list type="Attr">mix integer 0</list>
+      </list>
+      <list type="Tool" val="content.preset +ESFQG 'CONT'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">offsetX float 0.000000</list>
+        <list type="Attr">offsetY float 0.000000</list>
+        <list type="Attr">offsetZ float 0.000000</list>
+        <list type="Attr">scale float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">enable integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="falloff.radial">
+      <list type="Tool" val="falloff.radial +ESFQG 'WGHT'">
+        <list type="Attr">cenX float 0.050000</list>
+        <list type="Attr">cenY float 3.630000</list>
+        <list type="Attr">cenZ float -9.570000</list>
+        <list type="Attr">sizX float 2.652650</list>
+        <list type="Attr">sizY float 3.445000</list>
+        <list type="Attr">sizZ float 2.480000</list>
+        <list type="Attr">range float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 1.000000</list>
+        <list type="Attr">axisZ float 0.000000</list>
+        <list type="Attr">shape integer 0</list>
+        <list type="Attr">p0 float 0.000000</list>
+        <list type="Attr">p1 float 0.000000</list>
+        <list type="Attr">mix integer 0</list>
+      </list>
+      <list type="Tool" val="content.preset +ESFQG 'CONT'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">offsetX float 0.000000</list>
+        <list type="Attr">offsetY float 0.000000</list>
+        <list type="Attr">offsetZ float 0.000000</list>
+        <list type="Attr">scale float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">enable integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="edge.knife">
+      <list type="Tool" val="edge.knife +ESFQG 'ACTR'">
+        <list type="Attr">middle integer 0</list>
+        <list type="Attr">show integer 1</list>
+        <list type="Attr">split integer 1</list>
+        <list type="Attr">snap float 0.005000</list>
+        <list type="Attr">inside integer 1</list>
+        <list type="Attr">raycast integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="poly.loopSlice">
+      <list type="Tool" val="poly.loopSlice +ESFQG 'ACTR'">
+        <list type="Attr">sx integer 20</list>
+        <list type="Attr">sy integer 50</list>
+        <list type="Attr">sw integer 200</list>
+        <list type="Attr">select integer 0</list>
+        <list type="Attr">quad integer 0</list>
+        <list type="Attr">ngon integer 0</list>
+        <list type="Attr">count integer 1</list>
+        <list type="Attr">mode integer 0</list>
+        <list type="Attr">reversex integer 0</list>
+        <list type="Attr">reversey integer 0</list>
+        <list type="Attr">aspect integer 1</list>
+        <list type="Attr">curvature integer 0</list>
+        <list type="Attr">tension float 1.000000</list>
+        <list type="Attr">curr integer 0</list>
+        <list type="Attr">pos float 0.535000</list>
+        <list type="Attr">depth float 0.000000</list>
+      </list>
+      <list type="Tool" val="content.preset +ESFQG 'CONT'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">offsetX float 0.000000</list>
+        <list type="Attr">offsetY float 0.000000</list>
+        <list type="Attr">offsetZ float 0.000000</list>
+        <list type="Attr">scale float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">enable integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="edge.extend">
+      <list type="Tool" val="edge.extend +ESFQG 'ACTR'">
+        <list type="Attr">offX float 0.000000</list>
+        <list type="Attr">offY float -1.350000</list>
+        <list type="Attr">offZ float 0.000000</list>
+        <list type="Attr">rotX float 0.000000</list>
+        <list type="Attr">rotY float 0.000000</list>
+        <list type="Attr">rotZ float 0.000000</list>
+        <list type="Attr">sclX float 1.000000</list>
+        <list type="Attr">sclY float 1.000000</list>
+        <list type="Attr">sclZ float 1.000000</list>
+        <list type="Attr">segs integer 1</list>
+        <list type="Attr">uvs integer 1</list>
+        <list type="Attr">moveHandle integer 1</list>
+        <list type="Attr">rotateHandle integer 0</list>
+        <list type="Attr">scaleHandle integer 0</list>
+        <list type="Attr">planeHandle integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="poly.bevel">
+      <list type="Tool" val="poly.bevel +ESFQG 'ACTR'">
+        <list type="Attr">shift float -0.600000</list>
+        <list type="Attr">srand float 0.000000</list>
+        <list type="Attr">inset float 0.000000</list>
+        <list type="Attr">irand float 0.000000</list>
+        <list type="Attr">edges integer 0</list>
+        <list type="Attr">useMat integer 0</list>
+        <list type="Attr">matName integer 0</list>
+        <list type="Attr">group integer 1</list>
+        <list type="Attr">uvs integer 0</list>
+        <list type="Attr">segs integer 0</list>
+        <list type="Attr">reversex integer 0</list>
+        <list type="Attr">reversey integer 0</list>
+        <list type="Attr">aspect integer 1</list>
+      </list>
+      <list type="Tool" val="content.preset +ESFQG 'CONT'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">offsetX float 0.000000</list>
+        <list type="Attr">offsetY float 0.000000</list>
+        <list type="Attr">offsetZ float 0.000000</list>
+        <list type="Attr">scale float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">enable integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="Thicken">
+      <list type="Tool" val="poly.smshift +ESFQG 'ACTR'">
+        <list type="Attr">shift float -0.600000</list>
+        <list type="Attr">scale float 1.000000</list>
+        <list type="Attr">maxAngle float 1.572542</list>
+        <list type="Attr">thicken integer 1</list>
+        <list type="Attr">sharp integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="EdgeSlide">
+      <list type="Tool" val="edge.slide +ESFQG 'ACTR'">
+        <list type="Attr">mode integer 1</list>
+        <list type="Attr">dirX float 0.000000</list>
+        <list type="Attr">dirY float 0.000000</list>
+        <list type="Attr">dirZ float 0.000000</list>
+        <list type="Attr">interpolation integer 1</list>
+        <list type="Attr">dist float 8.640000</list>
+        <list type="Attr">percent float 0.478000</list>
+        <list type="Attr">merge integer 1</list>
+        <list type="Attr">stop integer 1</list>
+        <list type="Attr">duplicate integer 0</list>
+        <list type="Attr">snap integer 0</list>
+        <list type="Attr">loop integer 1</list>
+        <list type="Attr">segs integer 0</list>
+        <list type="Attr">inset float 0.000000</list>
+        <list type="Attr">reversex integer 1</list>
+        <list type="Attr">reversey integer 0</list>
+        <list type="Attr">aspect integer 1</list>
+        <list type="Attr">curvature integer 0</list>
+        <list type="Attr">tension float 1.000000</list>
+        <list type="Attr">lockUV integer 0</list>
+      </list>
+      <list type="Tool" val="content.preset +ESFQG 'CONT'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">offsetX float 0.000000</list>
+        <list type="Attr">offsetY float 0.000000</list>
+        <list type="Attr">offsetZ float 0.000000</list>
+        <list type="Attr">scale float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">enable integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="edge.bridge">
+      <list type="Tool" val="edge.bridge +ESFQG 'ACTR'">
+        <list type="Attr">segments integer 1</list>
+        <list type="Attr">twist integer 0</list>
+        <list type="Attr">mode integer 1</list>
+        <list type="Attr">remove integer 1</list>
+        <list type="Attr">flip integer 0</list>
+        <list type="Attr">orient integer 0</list>
+        <list type="Attr">tension float 1.000000</list>
+        <list type="Attr">uvs integer 0</list>
+        <list type="Attr">inset float 0.000000</list>
+        <list type="Attr">reversex integer 0</list>
+        <list type="Attr">reversey integer 0</list>
+        <list type="Attr">aspect integer 1</list>
+        <list type="Attr">connect integer 0</list>
+        <list type="Attr">autoStep integer 0</list>
+        <list type="Attr">steps integer 10</list>
+        <list type="Attr">continuous integer 1</list>
+        <list type="Attr">guideCurve integer 0</list>
+      </list>
+      <list type="Tool" val="content.preset +ESFQG 'CONT'">
+        <list type="Attr">axisX float 0.000000</list>
+        <list type="Attr">axisY float 0.000000</list>
+        <list type="Attr">axisZ float 1.000000</list>
+        <list type="Attr">offsetX float 0.000000</list>
+        <list type="Attr">offsetY float 0.000000</list>
+        <list type="Attr">offsetZ float 0.000000</list>
+        <list type="Attr">scale float 1.000000</list>
+        <list type="Attr">axis integer 2</list>
+        <list type="Attr">enable integer 1</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="edge.bevel">
+      <list type="Tool" val="edge.bevel +ESFQG 'ACTR'">
+        <list type="Attr">mode integer 0</list>
+        <list type="Attr">inset float 0.000000</list>
+        <list type="Attr">useMat integer 0</list>
+        <list type="Attr">matName integer 0</list>
+        <list type="Attr">level integer 0</list>
+        <list type="Attr">sharp integer 0</list>
+        <list type="Attr">shape integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="patch.draw">
+      <list type="Tool" val="patch.draw +ESFQG 'ACTR'">
+        <list type="Attr">mode integer 1</list>
+        <list type="Attr">index integer 0</list>
+        <list type="Attr">posX float 0.000000</list>
+        <list type="Attr">posY float 0.000000</list>
+        <list type="Attr">posZ float 0.000000</list>
+        <list type="Attr">knot integer 3</list>
+        <list type="Attr">scon integer 0</list>
+        <list type="Attr">econ integer 0</list>
+        <list type="Attr">seg1 integer 10</list>
+        <list type="Attr">type1 integer 0</list>
+        <list type="Attr">seg2 integer 10</list>
+        <list type="Attr">type2 integer 0</list>
+        <list type="Attr">bound integer 1</list>
+        <list type="Attr">freeze integer 0</list>
+        <list type="Attr">uvs integer 0</list>
+        <list type="Attr">flip integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCache" key="poly.extrude">
+      <list type="Tool" val="poly.extrude +ESFQG 'ACTR'">
+        <list type="Attr">shiftX float 0.000000</list>
+        <list type="Attr">shiftY float 0.000000</list>
+        <list type="Attr">shiftZ float 6.900000</list>
+        <list type="Attr">segs integer 1</list>
+        <list type="Attr">uvs integer 1</list>
+        <list type="Attr">mode integer 0</list>
+      </list>
+    </hash>
+    <hash type="ToolCacheShareAttr" key="global.lockUV">
+      <atom type="Value">integer 0</atom>
+    </hash>
+    <hash type="ToolCacheShareAttr" key="global.updateMorph">
+      <atom type="Value">integer 0</atom>
+    </hash>
+  </atom>
+  <atom type="Categories">
+    <hash type="Recents" key="itemtype:locator">
+      <list type="R">mesh</list>
+      <list type="R">backdrop</list>
+    </hash>
+  </atom>
+  <atom type="FileSystem">
+    <hash type="Directory" key="scene:in">/home/developej/work/architecture/thehouse</hash>
+    <hash type="Directory" key="scene">/home/developej/work/architecture/thehouse</hash>
+    <hash type="Directory" key="scene:out">/home/developej/work/architecture/thehouse</hash>
+    <list type="Recent">/home/developej/work/architecture/thehouse/prizemlje.dxf</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/prizemlje1.dxf</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/prizemlje1.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0001.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0002.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0003.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0004.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0005.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0006.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0007.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0008.lxo</list>
+    <list type="Recent">/home/developej/work/architecture/thehouse/thehouse_0009.lxo</list>
+  </atom>
+  <atom type="AppGlobal">
+    <atom type="SnapState">0</atom>
   </atom>
 </configuration>
