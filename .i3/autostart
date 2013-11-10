@@ -3,23 +3,23 @@ wait_for_program () {
     n=0
     while true
     do
-	# PID of last background command
-	if xdotool search --onlyvisible --pid $!; then
-	    break
-	else
-	    # 20 seconds timeout
-	    if [ $n -eq 20 ]; then
-		xmessage "Error on executing"
-		break
-	    else
-		n=`expr $n + 1`
-		sleep 1
-	    fi
-	fi
+    # PID of last background command
+    if xdotool search --onlyvisible --pid $!; then
+        break
+    else
+        # 20 seconds timeout
+        if [ $n -eq 20 ]; then
+        xmessage "Error on executing"
+        break
+        else
+        n=`expr $n + 1`
+        sleep 1
+        fi
+    fi
     done
 }
 
-terminator &
+hexchat &
 wait_for_program
 
 chromium &

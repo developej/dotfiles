@@ -1,4 +1,3 @@
-let g:airline_powerline_fonts=1
 let g:airline_theme='solarized'
 set gfn=DejaVu\ Sans\ Mono\ for\ Powerline\ Medium\ 10
 set scrolloff=10
