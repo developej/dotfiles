@@ -68,6 +68,8 @@ sleep 3
 dropboxd &
 wait_for_program
 
+xset -dpms
+
 xrefresh &
 
 exit 0
