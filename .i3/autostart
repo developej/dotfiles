@@ -26,6 +26,7 @@ chromium &
 wait_for_program
 
 i3-msg resize grow left 10ppt
+i3-msg resize grow left 10ppt
 
 i3-msg focus left
 i3-msg split v
