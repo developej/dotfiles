@@ -39,7 +39,7 @@ sleep 1
 i3-msg resize shrink height 10ppt
 i3-msg split h
 
-urxvt &
+terminator &
 wait_for_program
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
