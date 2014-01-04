@@ -24,8 +24,6 @@ wait_for_program
 
 chromium &
 wait_for_program
-
-i3-msg resize grow left 10ppt
 i3-msg resize grow left 10ppt
 
 i3-msg focus left
@@ -33,30 +31,18 @@ i3-msg split v
 
 vlc &
 wait_for_program
-
 i3-msg resize shrink height 10ppt
 
 skype &
 wait_for_program
-sleep 3
-
+sleep 1
 i3-msg resize shrink height 10ppt
 i3-msg split h
 
-terminator &
+urxvt &
 wait_for_program
-
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
 
-sleep 3
-
-dropboxd &
-wait_for_program
-
-xset -dpms
-
-xrefresh &
-
-exit 0
+dropboxd
