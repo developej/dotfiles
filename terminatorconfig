@@ -5,7 +5,7 @@
 [profiles]
   [[default]]
     palette = "#101010:#ff1000:#62ff00:#f0ff00:#0090ff:#fa2573:#67d9f0:#f2f2f2:#555753:#ff3324:#94ff51:#f4ff48:#61bbff:#ff629b:#92edff:#f8f8f2"
-    font = DejaVu Sans Mono for Powerline 10
+    font = Droid Sans Mono for Powerline 9
     background_image = None
     audible_bell = True
     use_system_font = False
@@ -14,6 +14,7 @@
     show_titlebar = False
     copy_on_selection = True
     background_color = "#002b36"
+    allow_bold = False
     scrollback_infinite = True
 [layouts]
   [[default]]
