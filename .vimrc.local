@@ -1,5 +1,6 @@
 let g:airline_theme='solarized'
-set gfn=Droid\ Sans\ Mono\ for\ Powerline\ 10
+""set gfn=Droid\ Sans\ Mono\ for\ Powerline\ 9
+set gfn=Ttyp0\ 10
 set scrolloff=10
 set scrolljump=0
 set cursorcolumn
