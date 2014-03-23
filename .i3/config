@@ -151,3 +151,8 @@ bar {
 }
 
 exec /home/developej/dotfiles/.i3/autostart
+
+# window preferences
+
+for_window [title="QUAKE LIVE Launcher" class="Wine"] floating enable
+for_window [title="Quake Live" class="Wine"] floating enable
