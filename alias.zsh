@@ -6,6 +6,8 @@ alias po="popd"
 # basic directory operations
 alias ...="cd ../.."
 alias -- -="cd -"
+alias rm="rm -i"
+alias lock="i3lock -i /storage/Dropbox/Public/wallpapers/HAL_eye_2560x1440.png"
 
 # show history
 alias history="fc -l 1"

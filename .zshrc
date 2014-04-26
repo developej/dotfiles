@@ -176,6 +176,4 @@ build_prompt() {
 PROMPT='%{%f%b%k%}$(build_prompt) '
 
 #path
-#export PATH=$PATH:/home/$USER/resources/scripts
-#export PATH=$PATH:/opt/android-sdk/tools
 export PATH=$PATH:/home/$USER/resources/scripts

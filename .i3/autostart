@@ -19,6 +19,10 @@ wait_for_program () {
     done
 }
 
+i3lock -i /storage/Dropbox/Public/wallpapers/HAL_eye_2560x1440.png
+
+sleep 5
+
 hexchat &
 wait_for_program
 
@@ -35,7 +39,9 @@ i3-msg resize shrink height 10ppt
 
 skype &
 wait_for_program
+
 sleep 1
+
 i3-msg resize shrink height 10ppt
 i3-msg split h
 
@@ -44,5 +50,17 @@ wait_for_program
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
 i3-msg resize shrink left 10ppt
+
+sleep 1
+
+i3-msg focus right
+i3-msg split v
+i3-msg layout stacking
+
+teamviewer &
+
+sleep 5
+
+terminator &
 
 dropboxd
