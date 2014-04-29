@@ -15,3 +15,4 @@ ln -s /home/$USER/dotfiles/.vimrc.before.local /home/$USER/.vimrc.before.local
 ln -s /home/$USER/dotfiles/.xinitrc /home/$USER/.xinitrc
 ln -s /home/$USER/dotfiles/.zprofile /home/$USER/.zprofile
 ln -s /home/$USER/dotfiles/.zshrc /home/$USER/.zshrc
+ln -s /home/$USER/dotfiles/.yaourtrc /home/$USER/.yaourtrc
