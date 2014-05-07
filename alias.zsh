@@ -33,5 +33,5 @@ alias countsymlinks="ls -l | grep ^l | wc -l"
 alias syu="sudo pacman -Syu"
 alias asyu="yaourt -Sbu --aur"
 # system aliases
-alias sshn="sudo shutdown -h now"
-alias sr="sudo reboot"
+alias ssp="sudo systemctl poweroff"
+alias ssr="sudo systemctl reboot"
