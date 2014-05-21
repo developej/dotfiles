@@ -150,7 +150,7 @@ bar {
         position top
 }
 
-exec /home/developej/dotfiles/.i3/autostart
+exec /home/$USER/dotfiles/.i3/autostart
 
 # window preferences
 
