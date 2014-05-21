@@ -30,7 +30,7 @@ export EDITOR="gvim"
 ### Segment drawing
 # A few utility functions to make it easy and re-usable to draw segmented prompts
 
-DEFAULT_USER="developej"
+DEFAULT_USER="predmijat"
 CURRENT_BG='NONE'
 SEGMENT_SEPARATOR=''
 
