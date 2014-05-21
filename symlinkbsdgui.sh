@@ -3,7 +3,7 @@
 cd /home/$USER/dotfiles/ &&
 git submodule init &&
 git submodule update &&
-mkdir -p home/$USER/.config/terminator
+mkdir -p /home/$USER/.config/terminator
 ln -s /home/$USER/dotfiles/alias.zsh /home/$USER/dotfiles/.oh-my-zsh/custom/alias.zsh
 ln -s /home/$USER/dotfiles/.alsoftrc /home/$USER/.alsoftrc
 ln -s /home/$USER/dotfiles/.i3 /home/$USER/.i3
