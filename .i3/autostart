@@ -68,6 +68,9 @@ wait_for_program
 terminator &
 wait_for_program
 
+pasystray &
+wait_for_program
+
 #owncloud &
 #wait_for_program
 
