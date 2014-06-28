@@ -33,34 +33,17 @@ i3-msg resize grow left 10ppt
 i3-msg focus left
 i3-msg split v
 
-i3-msg resize shrink height 10ppt
+pavucontrol &
+wait_for_program
 
-terminator &
+i3-msg split h
+i3-msg layout stacking
+
+teamviewer &
 wait_for_program
 
 skype &
 wait_for_program
-
-sleep 1
-
-i3-msg resize shrink height 10ppt
-i3-msg split h
-
-terminator &
-wait_for_program
-i3-msg resize shrink left 10ppt
-i3-msg resize shrink left 10ppt
-i3-msg resize shrink left 10ppt
-
-sleep 1
-
-i3-msg focus right
-i3-msg split v
-i3-msg layout stacking
-
-teamviewer &
-
-sleep 5
 
 vlc &
 wait_for_program
@@ -68,10 +51,18 @@ wait_for_program
 terminator &
 wait_for_program
 
-pasystray &
-wait_for_program
+sleep 5
+
+sleep 1
+
+i3-msg focus right
+i3-msg split v
+i3-msg layout stacking
 
 #owncloud &
 #wait_for_program
+
+pasystray &
+wait_for_program
 
 dropboxd

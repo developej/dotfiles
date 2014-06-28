@@ -4,5 +4,7 @@ set gfn=Ttyp0\ 10
 set scrolloff=10
 set scrolljump=0
 set cursorcolumn
+set spell spelllang=en_gb
+nnoremap <silent> <leader>s :set spell!<CR>
 nnoremap <F3> :set hlsearch!<CR>
 nnoremap <F5> :w !sudo tee %<CR>
