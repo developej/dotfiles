@@ -156,3 +156,5 @@ exec /home/$USER/dotfiles/.i3/autostart
 
 for_window [title="QUAKE LIVE Launcher" class="Wine"] floating enable
 for_window [title="Quake Live" class="Wine"] floating enable
+
+for_window [title="TeamViewer"] floating disable
